@@ -348,3 +348,6 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+/MVCApp_Basic/wwwroot/bootstrap/css
+/MVCApp_Basic/wwwroot/bootstrap
+/MVCApp_Basic/wwwroot/jquery
