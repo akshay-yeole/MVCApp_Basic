@@ -13,9 +13,10 @@ namespace MVCApp_Basic.Controllers
         {
             repository = new BookRepository();
         }
-        public List<BookModel> Index()
+        public IActionResult Index()
         {
-            return repository.GetAllBooks(); 
+            var allBooks = repository.GetAllBooks();
+            return View(allBooks); 
         }
 
         public BookModel GetBookById(int id)
