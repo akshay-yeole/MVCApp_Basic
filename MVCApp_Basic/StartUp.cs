@@ -10,6 +10,7 @@ namespace MVCApp_Basic
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            services.AddRazorPages().AddRazorRuntimeCompilation();
         }
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
