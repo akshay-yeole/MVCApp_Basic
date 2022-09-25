@@ -351,3 +351,10 @@ MigrationBackup/
 /MVCApp_Basic/wwwroot/bootstrap/css
 /MVCApp_Basic/wwwroot/bootstrap
 /MVCApp_Basic/wwwroot/jquery
+/MVCApp_Basic/wwwroot/lib/bootstrap
+/MVCApp_Basic/wwwroot/lib/jquery/jquery.slim.min.map
+/MVCApp_Basic/wwwroot/lib/jquery/jquery.slim.min.js
+/MVCApp_Basic/wwwroot/lib/jquery/jquery.slim.js
+/MVCApp_Basic/wwwroot/lib/jquery/jquery.min.map
+/MVCApp_Basic/wwwroot/lib/jquery/jquery.min.js
+/MVCApp_Basic/wwwroot/lib/jquery/jquery.js
